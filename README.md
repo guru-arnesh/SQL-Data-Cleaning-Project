@@ -1,4 +1,5 @@
 **Nashville Housing Data Cleaning Project**
+
 This project showcases a comprehensive data cleaning process on a dataset from the Nashville housing market using SQL. The primary objective is to ensure data accuracy, consistency, and readiness for analysis. The project includes the following key tasks:
 
 **Date Standardization:**
